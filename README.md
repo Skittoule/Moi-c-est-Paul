@@ -5,7 +5,7 @@
 <p>J'ai passé en 2016 un bac technologique de management et de gestion option gestion finance. Ne sachant pas trop quoi faire j'ai continué dans cette voie et j'ai entamé un BTS Management des Unités Commerciale à Nantes que j'ai du quitter en milieu d'années pour des soucis familiales. A la rentrée qui suivire je repris mes études mais cette fois-ci en fac d'Administration Economique et Sociale, à Tours.</p> 
 <p>Ce "format" d'apprentissage ne me convenait pas et puisque c'était la dernière année de cette filière dans la fac de Tours, je décide d'arrêter là avec la fac. Ce qui m'amène à vous !</p>
 
-<h3>Mes expériences</h3
+<h3>Mes expériences</h3>
 <p> Mis à par quelques stages en pharmacie, dans une compagnie aérienne ou dans un restaurant scolaire, je n'ai pas de "réelles" expériences professionnelles bien que chacuns des ces stages m'ont permis d'acquérir certaines compétences, savoir-faire et une bonne appréhension du monde du travail.
 </br> J'ai quand même eu l'occasion d'être chroniqueur au sein d'une web-radio portée high-tech/jeux-vidéo. Cette radio a vécu pendant 3 superbes années et a du être stoppé pour manque de finance mais j'en garde de très bons souvenirs et grâce à cette expérience je suis aujourd'hui bien plus à l'air à l'oral. 
 <img src="https://pbs.twimg.com/profile_images/554598543818645504/ghkag6Bo.png" width="312" heigh="312">
