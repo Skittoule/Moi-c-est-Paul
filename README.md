@@ -24,6 +24,5 @@
     <li> <a href="https://www.dealabs.com/"> Un site qui me permet de dénicher de bonnes affaires !</a>
     <li> <a href="https://www.tvtime.com/fr"> Celui-ci m'est super utile pour rester à jour sur mes séries préférées !</a>
     <li> <a href="https://r6db.com/"> Lui, il me permet de connaître mes stats sur mon jeu favori</a>
-</ul>
 
 <h4>Merci à vous de m'avoir lu et à bientôt !</h4>
