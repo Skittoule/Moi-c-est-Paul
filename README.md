@@ -15,7 +15,7 @@
 
 <p>Quand je ne fais pas de sport, je passe le plus clair de mon temps libre derrière un écran à regarder des séries, jouer à des jeux vidéo avec des amis ou encore m'informer sur les dernières technologies.</p>
 <p>J'aime voyager, découvrir de nouvelles cultures et façons de vivre et j'aime également parler de tout et de rien autour d'une bonne bière avec des amis !</p>
-<img src="amis-biere.png" width="400" heigh="400">
+<img src="amis-biere.jpg" width="400" heigh="400">
 
 <h3>Pourquoi devenir Dev ? Et pourquoi rejoindre le CEFIM ?</h3> 
 
