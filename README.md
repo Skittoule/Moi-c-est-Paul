@@ -7,7 +7,7 @@
 
 <h3>Mes expériences</h3>
 <p> Mis à par quelques stages en pharmacie, dans une compagnie aérienne ou dans un restaurant scolaire, je n'ai pas de "réelles" expériences professionnelles bien que chacuns des ces stages m'ont permis d'acquérir certaines compétences, savoir-faire et une bonne appréhension du monde du travail.
-</br> J'ai quand même eu l'occasion d'être chroniqueur au sein d'une web-radio portée high-tech/jeux-vidéo. Cette radio a vécu pendant 3 superbes années et a du être stoppé pour manque de finance mais j'en garde de très bons souvenirs et grâce à cette expérience je suis aujourd'hui bien plus à l'air à l'oral. 
+<p>J'ai quand même eu l'occasion d'être chroniqueur au sein d'une web-radio portée high-tech/jeux-vidéo. Cette radio a vécu pendant 3 superbes années et a du être stoppé pour manque de finance mais j'en garde de très bons souvenirs et grâce à cette expérience je suis aujourd'hui bien plus à l'air à l'oral.</p>
 <img src="https://pbs.twimg.com/profile_images/554598543818645504/ghkag6Bo.png" width="312" heigh="312">
 
 
