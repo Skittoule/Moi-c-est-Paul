@@ -1,8 +1,10 @@
 <h3>Qui suis-je ?</h3>
 
 <p>Je m'appelle Paul, j'ai 21 ans et je suis originaire de Tours.</p> 
+<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/16106069_10212392231547896_3498954200495072546_n.jpg?_nc_cat=0&oh=b0e5edd66b2845a0b0a5de20f062d2a1&oe=5B78422B" width="351" height="350">
 <p>J'ai passé en 2016 un bac technologique de management et de gestion option gestion finance. Ne sachant pas trop quoi faire j'ai continué dans cette voie et j'ai entamé un BTS Management des Unités Commerciale à Nantes que j'ai du quitter en milieu d'années pour des soucis familiales. A la rentrée qui suivire je repris mes études mais cette fois-ci en fac d'Administration Economique et Sociale, à Tours.</p> 
 <p>Ce "format" d'apprentissage ne me convenait pas et puisque c'était la dernière année de cette filière dans la fac de Tours, je décide d'arrêter là avec la fac. Ce qui m'amène à vous !</p>
+
 
 <h3>Mes passions</h3>
 
