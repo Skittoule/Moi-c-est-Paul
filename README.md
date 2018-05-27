@@ -23,8 +23,8 @@
 <p>Je peux toute fois vous en partagez quelques-uns que j'apprécie :</p>
 
 <ul>
-    <li> <a href="https://www.dealabs.com/"> Un site qui me permet de dénicher de bonnes affaires !</a>
-    <li> <a href="https://www.tvtime.com/fr"> Celui-ci m'est super utile pour rester à jour sur mes séries préférées !</a>
-    <li> <a href="https://r6db.com/"> Lui, il me permet de connaître mes stats sur mon jeu favori</a>
+    <li> <a href="https://www.dealabs.com/"> Dealabs</a> Un site qui me permet de dénicher de bonnes affaires !
+    <li> <a href="https://www.tvtime.com/fr"> TvTime </a> Celui-ci m'est super utile pour rester à jour sur mes séries préférées !
+    <li> <a href="https://r6db.com/"> R6DB</a> Lui, il me permet de connaître mes stats sur mon jeu favori
 
 <h4>Merci à vous de m'avoir lu et à bientôt !</h4>
