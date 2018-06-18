@@ -5,9 +5,12 @@
   list-style: none ;
   text-align: center ;
   color: #159957 ;
-  padding-right: 30px ;
 }
 
 h1 {
   text-align: center ;
+}
+
+#Experiences {
+    padding-right: 30px ;
 }
