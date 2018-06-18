@@ -1,5 +1,5 @@
 <header>
-    <link rel="stylesheet" href="https://github.com/Skittoule/Moi-c-est-Paul/blob/master/css">
+    <link rel="css" href="https://github.com/Skittoule/Moi-c-est-Paul/blob/master/css">
     <h1>Paul Gannat</h1>
     <ul id="navigation">
         <li><a href="#Moi">Qui suis-je ?</a></li>
