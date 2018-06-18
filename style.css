@@ -12,6 +12,10 @@ h1 {
 }
 
 a {
-    padding-right: 30px ;
-    color: #159957 ;
+    padding-right: 25px ;
 }
+
+a:hover {
+  color: #17610C ;
+}
+    
