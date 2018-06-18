@@ -1,4 +1,4 @@
-header
+#navigation
 {
   display: inline;
   margin: 0 ;
@@ -6,4 +6,9 @@ header
   list-style: none ;
   text-align: center ;
   color: #159957;
+}
+
+header
+{
+  text-align: center ;
 }
