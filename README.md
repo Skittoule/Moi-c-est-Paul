@@ -1,3 +1,7 @@
+<header>
+    <h1>Paul Gannat</h1>
+</header>
+
 <h3>Qui suis-je ?</h3>
 
 <p>Je m'appelle Paul, j'ai 21 ans et je suis originaire de Tours.</p> 
