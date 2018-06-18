@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://github.com/Skittoule/Moi-c-est-Paul/blob/master/css">
 <header>
     <h1>Paul Gannat</h1>
     <ul id="navigation">
